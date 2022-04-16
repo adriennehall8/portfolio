@@ -1,0 +1,67 @@
+
+body {
+    background-color: rgb(54,86,115);
+    margin: 32px;
+}
+
+h1 {
+    font-family: 'Gill Sans';
+    font-weight: normal;
+    font-size: 56px;
+    color: rgb(192, 199, 199);
+    position: relative;
+    text-align: left;
+}
+
+h2 {
+    font-family:'Montserrat';
+    font-weight:normal;
+    font-size: x-large;
+    color: lightgrey;
+    /* text-decoration-line: underline; */
+    position: relative;
+    text-align: left;
+}
+
+h4 {
+    font-family:'Gill Sans';
+    font-weight: lighter;
+    font-size: x-large;
+    color:rgb(16,38,32);
+    cursor: text;
+    position: relative;
+    text-align: left;
+}
+
+a {
+    font-family:'Montserrat';
+    font-size:large;
+    color:whitesmoke;
+    position: relative;
+    text-align: left;
+    text-indent: 30pt;
+ }
+
+.tab { margin-left: 40px; }
+
+ul.a {
+    list-style-type: circle;
+    font-family:'Montserrat';
+    font-size:large;
+    color:lightgray;
+    position: relative;
+    text-align: left;
+    text-indent: 30pt;
+  }
+  
+  ul.b {
+    list-style-type: square;
+  }
+  
+  ol.c {
+    list-style-type: upper-roman;
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha;
+  }
