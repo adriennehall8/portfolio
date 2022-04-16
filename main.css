@@ -18,7 +18,7 @@ h2 {
     font-weight:normal;
     font-size: x-large;
     color: lightgrey;
-    /* text-decoration-line: underline; */
+    text-decoration-line: underline;
     position: relative;
     text-align: left;
 }
