@@ -51,9 +51,12 @@ ul.a {
     color:lightgray;
     position: relative;
     text-align: left;
-    text-indent: 30pt;
+    /* text-indent: 30pt; */
   }
-  
+  ul div{
+    margin-left: 10pt;
+    margin-bottom: 5pt;
+  }
   ul.b {
     list-style-type: square;
   }
