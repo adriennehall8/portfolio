@@ -143,7 +143,7 @@ Suitability Map (Output Raster Styled in QGIS)
 generated](HospitalSiteSuitabilityMap.png)
 
 [Download result in raster
-format.](https://adriennehall8.github.io/portfolio/analysis/SuitabilityMap.tif)
+format.](https://github.com/adriennehall8/portfolio/blob/main/analysis/SuitabilityMap.tif)
 
 
 **References**
